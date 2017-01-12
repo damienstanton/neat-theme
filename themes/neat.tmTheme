@@ -68,7 +68,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +81,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896</string>
 			</dict>
 		</dict>
 		<dict>
@@ -89,10 +91,8 @@
 			<string>variable</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896</string>
 			</dict>
 		</dict>
 		<dict>
@@ -113,10 +113,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -126,8 +126,6 @@
 			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#282A2E</string>
 			</dict>
@@ -142,7 +140,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#282a2eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +153,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#282a2eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,10 +163,10 @@
 			<string>entity.name.function</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#282A2E</string>
+				<key>fontStyle</key>
+				<string> underline</string>
 			</dict>
 		</dict>
 		<dict>
@@ -181,7 +179,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,7 +218,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#282a2e</string>
+				<string>#969896</string>
 			</dict>
 		</dict>
 		<dict>
@@ -233,7 +231,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#282a2e</string>
+				<string>#282a2eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +244,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#969896ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,7 +257,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#282A2E</string>
+				<string>#282a2eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,10 +269,8 @@
 			<dict>
 				<key>background</key>
 				<string></string>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
-				<string>#DB3434</string>
+				<string>#D91E18</string>
 			</dict>
 		</dict>
 		<dict>
@@ -287,7 +283,9 @@
 				<key>background</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#DB3434</string>
+				<string>#D91E18</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 	</array>
@@ -296,6 +294,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.storm_cloudy</string>
+	<string>theme.light.neat</string>
 </dict>
 </plist>
