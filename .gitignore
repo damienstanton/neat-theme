@@ -1,2 +1,14 @@
 vsc-extension-quickstart.md
-.vscodeignore
+.vscodeignore*.DS_Store
+*.swp
+*.o
+*.so
+env/
+bin/
+node_modules/
+.vscode/
+.idea/
+vendor/*/*
+target/
+Cargo.lock
+**/*.rs.bak
