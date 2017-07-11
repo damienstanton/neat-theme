@@ -1,6 +1,5 @@
-# Neat theme for Visual Studio Code 
-Neat is a light monochrome theme based on Apex Syntax for Atom. It is designed to provide a focused writing experience for both Markdown and code, using minimal highlighting to avoid distraction.
+# neat
 
-## Screenshots
-![Screenshot 2](screenshot-2.png)
-![Screenshot](screenshot.png)
+This repository is the Neat theme for VSCode, as well as a variant for vim created using the coloration Ruby gem.
+
+Licensing and credit remains the same as the included VSCode source.
